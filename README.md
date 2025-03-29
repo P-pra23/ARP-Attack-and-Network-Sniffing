@@ -29,18 +29,21 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/533a1b9f-b0bb-4d4d-bcc7-93d146b98c16)
+![image](https://github.com/user-attachments/assets/91104689-f8a1-47ed-b96b-1e796779629a)
+
 
  dsniff:
-![image](https://github.com/user-attachments/assets/e3f83615-5c7e-4889-89dd-86cbf0a983f6)
+![image](https://github.com/user-attachments/assets/aa7ddaf9-2559-40dd-92da-d54590ec35b9)
+
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/e3f83615-5c7e-4889-89dd-86cbf0a983f6)
+![image](https://github.com/user-attachments/assets/b6690d42-1c93-4c78-9e4f-8d18dc1c6769)
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+![image](https://github.com/user-attachments/assets/52efd57d-dcd9-4bd9-aac0-5c94e36ffb83)
 
 
 ## RESULT:
